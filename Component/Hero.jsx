@@ -3,6 +3,7 @@ import Cursor from './Cursor'
 import gsap from 'gsap'
 import { useGSAP } from '@gsap/react'
 import Work from './Work'
+import Github from './Github'
 
 function Hero() {
     const heroRef = useRef()
@@ -39,6 +40,7 @@ function Hero() {
      <div style={{height:"100dvh", width:"100dvw", backgroundColor:"white"}}>
        <h1 style={{color:"black"}}>Saket sharma</h1>
      </div>
+      <Github/>
     </div>
   )
 }

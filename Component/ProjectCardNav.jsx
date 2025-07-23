@@ -1,4 +1,3 @@
-import React from 'react'
 import { useRef } from 'react'
 import gsap from 'gsap'
 import {useGSAP} from '@gsap/react'
@@ -50,6 +49,3 @@ function ProjectCardNav() {
 
 export default ProjectCardNav;
 
-// saket sharma is a great engineer
-// i am the best in the world
-// i fear only god 
