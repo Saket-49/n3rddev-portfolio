@@ -34,10 +34,6 @@ function Profile() {
             />
     </div>
         
-
-
-
-
         <div style={{height:"10vh", width:"90%", position:"relative", left:"5%", bottom:"20%"}}>
             <h2 style={{fontSize:"3vh"}}>Saket Sharma</h2>
             <p style={{color:"grey", fontSize:"2vh", marginBottom:"1vh"}}>Full Stack Developer || Open Source Enthusiast || Web3</p>
@@ -59,7 +55,7 @@ function Profile() {
 <br />
         <div style={{height:"20vh", width:"90%", position:"relative", left:"5%", bottom:"10%"}}>
             <h1 style={{fontSize:"3vh",  
-    boxShadow: "0 6px 6px -4px #00ff99", display:"inline-block"}}>About Me</h1>
+    boxShadow: "0 6px 6px -4px #00ff99", display:"inline-block"}}>About Me</h1><br />
             <p style={{color:"gray"}}>
                 Hi, I am Saket from India 🇮🇳. I love building stuff, and all my projects are hosted on <a style={{color:"#00ff99"}} href="https://github.com/nerdd3v">GitHub</a> . My journey began in freshmen year with basic HTML-CSS, and since then, I've evolved from a curious student to a web developer passionate about creating impactful solutions. <br /><br />
 
