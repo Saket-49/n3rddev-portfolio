@@ -61,7 +61,7 @@ function Profile() {
             <h1 style={{fontSize:"3vh",  
     boxShadow: "0 6px 6px -4px #00ff99", display:"inline-block"}}>About Me</h1>
             <p style={{color:"gray"}}>
-                Hi, I am Saket from India 🇮🇳. I love building stuff, and all my projects are hosted on <a style={{color:"#00ff99"}} href="https://github.com/Saket-49">GitHub</a> . My journey began in freshmen year with basic HTML-CSS, and since then, I've evolved from a curious student to a web developer passionate about creating impactful solutions. <br /><br />
+                Hi, I am Saket from India 🇮🇳. I love building stuff, and all my projects are hosted on <a style={{color:"#00ff99"}} href="https://github.com/nerdd3v">GitHub</a> . My journey began in freshmen year with basic HTML-CSS, and since then, I've evolved from a curious student to a web developer passionate about creating impactful solutions. <br /><br />
 
                 Through consistent learning and project building, I've grown my skills across the full stack. Currently, I'm working remotely with exciting technologies and always looking to learn more.
             </p>
